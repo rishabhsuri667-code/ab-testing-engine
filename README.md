@@ -9,8 +9,8 @@ An enterprise-grade statistical engine and interactive dashboard for designing, 
 
 **[🌐 View the Live Interactive Dashboard Here](#)** *(Update this link once deployed to Streamlit Cloud)*
 
-![Dashboard Screenshot](<img width="1915" height="951" alt="dashboard_image" src="https://github.com/user-attachments/assets/0619faad-21b5-4f00-b74c-e53d7fe0e401" />
-)
+<img width="1915" height="951" alt="dashboard_image" src="https://github.com/user-attachments/assets/8c67ca69-772c-4ca5-9fd8-9edebc9ea816" />
+
 
 ## 📌 The Problem
 "Peeking" at A/B test results too early or running tests without a calculated sample size are the most common statistical errors made by product teams, leading to false positives and bad product decisions.
