@@ -7,7 +7,7 @@ An enterprise-grade statistical engine and interactive dashboard for designing, 
 ![SciPy](https://img.shields.io/badge/SciPy-1.13.0-8CAAE6)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-0.14.1-3b82f6)
 
-**[🌐 View the Live Interactive Dashboard Here](#)** *(Update this link once deployed to Streamlit Cloud)*
+**[🌐 View the Live Interactive Dashboard Here](https://ab-testing-engine-8s2qzmappwxy5yxhxe426je.streamlit.app)** 
 
 <img width="1915" height="951" alt="dashboard_image" src="https://github.com/user-attachments/assets/8c67ca69-772c-4ca5-9fd8-9edebc9ea816" />
 
