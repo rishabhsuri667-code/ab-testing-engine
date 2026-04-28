@@ -9,7 +9,8 @@ An enterprise-grade statistical engine and interactive dashboard for designing, 
 
 **[🌐 View the Live Interactive Dashboard Here](#)** *(Update this link once deployed to Streamlit Cloud)*
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400.png?text=Add+a+Screenshot+or+GIF+of+your+Dashboard+Here)
+![Dashboard Screenshot](<img width="1915" height="951" alt="dashboard_image" src="https://github.com/user-attachments/assets/0619faad-21b5-4f00-b74c-e53d7fe0e401" />
+)
 
 ## 📌 The Problem
 "Peeking" at A/B test results too early or running tests without a calculated sample size are the most common statistical errors made by product teams, leading to false positives and bad product decisions.
@@ -38,7 +39,7 @@ An enterprise-grade statistical engine and interactive dashboard for designing, 
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repo-link>
+   git clone <[your-github-repo-link](https://github.com/rishabhsuri667-code/ab-testing-engine.git)>
    cd ab_testing_engine
    ```
 
